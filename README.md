@@ -1,2 +1,2 @@
 # Pytorch-FashionMnist-Classification
-The workbook 
+Understanding why and how Convolution Neural Networks are used.
